@@ -33,7 +33,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <struts-version>6.4.0</struts-version>
+        <struts-version>6.8.0</struts-version>
     </properties>
 
 
